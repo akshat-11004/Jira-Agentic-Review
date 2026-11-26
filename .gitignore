@@ -1,0 +1,19 @@
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+*chache*
+
+# Common Build & Dependency Folders
+node_modules/
+dist/
+build/
+out/
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+target/

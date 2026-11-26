@@ -1,0 +1,8 @@
+requests
+langchain
+langchain-openai
+langgraph
+pydantic
+dotenv
+traceback
+langchain-groq
