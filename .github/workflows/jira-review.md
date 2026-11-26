@@ -15,7 +15,7 @@ permissions:
 
 engine:
   id: gemini
-  model: gemini-2.5-flash-lite
+  model: gemini-3.5-flash-lite
 
 network:
   allowed:
