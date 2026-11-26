@@ -140,7 +140,9 @@ mcp-scripts:
 
 safe-outputs:
   threat-detection:
-    engine: gemini
+    engine:
+      id: gemini
+      model: gemini-3.5-flash-lite
     continue-on-error: false
 
   submit-pull-request-review:
