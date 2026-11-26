@@ -1,7 +1,0 @@
-requests
-langchain
-langchain-openai
-langgraph
-pydantic
-dotenv
-langchain-groq
