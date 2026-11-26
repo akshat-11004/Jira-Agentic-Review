@@ -2,6 +2,6 @@
 def add(a, b):
     return a + b
 
-# This is substraction functionality
+# This is subtraction functionality
 def subtract(a, b):
     return a - b
